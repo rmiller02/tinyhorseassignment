@@ -1,0 +1,111 @@
+nav {
+  height: 88px;
+  padding: 0 40px;
+}
+nav li {
+  padding: 0 13px;
+  font-family: Helvetica; sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 1px
+  text-transform: uppercase;
+}
+nav li a {
+  text-decoration: none;
+  color: #ffffff;
+  transition: background-color 0.4s ease-in-out,color 0.4s ease-in-out,border-color 0.4s ease-in-out;
+}
+nav li a: hover {
+  color:white;
+  border-bottom: 2px solid #ce6451;
+}
+nav img {
+  max-height: 88px;
+  width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+.col-sm-4 {
+   text-align: center;
+  font-family: big-caslon-fb,serif;
+  font-style: bold;
+  font-weight: 400;
+  font-size: 32px;
+  padding: 0.75em 0px;
+  letter-spacing: 1px;
+  color: #212326;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: big-caslon-fb,serif;
+  font-style: bold;
+  font-weight: 400;
+  font-size: 32px;
+  padding: 0.75em 0px;
+  letter-spacing: 1px;
+  color: #212326;
+}
+
+.bg-3 {
+  background-color: #f4eae9;
+}
+
+h3 {
+  text-align: left;
+   font-family: big-caslon-fb,serif;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: none !important;
+    font-size: 32px;
+  padding: 0.75em 0px;
+  letter-spacing: 1px;
+  color: #212326;
+}
+
+.bg-4{
+  background-color: white;
+
+}
+
+.jumbotron{
+
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: 100% 100%;
+ background-image:url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+}
+
+h1{
+  color: white;
+  text-align: left;
+   font-family: big-caslon-fb,serif;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: none !important;
+    font-size: 32px;
+  padding: 0.75em 0px;
+  letter-spacing: 1px;
+}
+
+
+.jumbotron-fluid{
+background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: 100% 100%;
+ background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg);
+
+}
+
+
